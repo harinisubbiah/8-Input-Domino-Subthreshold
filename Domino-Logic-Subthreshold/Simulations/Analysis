@@ -1,0 +1,23 @@
+ INFERENCE:  Vdc= 0.35 V 
+ 
+ 
+## 📊 Transistor Sizing and Threshold Analysis
+
+| PMOS Width | NMOS Width | Switching Threshold (mV) | PMOS Threshold Voltage (V) | NMOS Threshold Voltage (V) |
+|------------|------------|-------------------------:|---------------------------:|---------------------------:|
+| 2 µm | 2 µm | 127.1969 | -0.473 | -0.518 |
+| 6 µm | 4 µm | 132.20 | -0.480 | 0.525 |
+
+
+## 📈 Performance Metrics
+
+| Technology | Average Power (W) | Delay 1 (s) | Delay 2 (s) |
+|------------|------------------:|------------:|------------:|
+| GPDK 180 nm CMOS | 3.377 × 10⁻⁹ | 94.16 × 10⁻⁹ | 290.2 × 10⁻⁹ |
+ 
+ 
+●	The design successfully demonstrates that wide fan-in domino logic is feasible in sub-threshold mode, suitable for low power, moderate speed applications. 
+●	Compared to static CMOS, the domino logic shows competitive power benefits but at the cost of higher delay, typical for this regime. 
+●	The results align with literature indicating that adaptive sub-threshold voltage control in domino logic reduces power dissipation and improves noise immunity, especially for wide fan-in gates. 
+●	This work confirms that the sub-threshold domino approach is robust for ultra-low power VLSI designs, especially where energy efficiency dominates over speed. 
+ 
