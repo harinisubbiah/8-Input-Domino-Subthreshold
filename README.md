@@ -99,8 +99,8 @@ Special attention was given to transistor sizing to improve switching characteri
 
 # 👨‍💻 Contributors
 
-- S. Deepika Sri -[]
-- A. Mirunalini -[]
+- S. Deepika Sri -[https://github.com/SDeepikaSri]
+- A. Mirunalini -[[https://github.com/miruanand]
 
 ---
 
@@ -108,3 +108,8 @@ Special attention was given to transistor sizing to improve switching characteri
 
 This project is licensed under the MIT License.
 
+---
+
+## 👩‍💻 Authors
+**Harini S**
+---
