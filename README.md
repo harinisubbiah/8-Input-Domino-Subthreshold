@@ -1,6 +1,6 @@
 # 8-Input Domino OR Gate in Subthreshold Region
 ---
-# 📖 Overview
+#  Overview
 
 As CMOS technology continues to scale, minimizing power consumption has become one of the most important challenges in modern integrated circuit design. Operating digital circuits in the **sub-threshold** and **near-threshold** regions significantly reduces energy consumption, making these techniques ideal for battery-powered and energy-constrained applications.
 
@@ -10,7 +10,7 @@ Simulation results validate the effectiveness of Domino Logic for implementing w
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Design an 8-input Domino OR gate
 - Implement the circuit using Dynamic CMOS Logic
@@ -22,26 +22,26 @@ Simulation results validate the effectiveness of Domino Logic for implementing w
 
 ---
 
-# ✨ Features
+# Features
 
-- ⚡ Ultra-Low Power Design
-- 🧠 Wide Fan-In Domino Logic
-- 📉 Sub-Threshold CMOS Operation
-- 📊 Power Analysis
-- ⏱️ Delay Analysis
-- 🔬 Device Sizing Optimization
-- 💻 Cadence Virtuoso Implementation
-- 📈 Dynamic CMOS Evaluation
+- Ultra-Low Power Design
+- Wide Fan-In Domino Logic
+- Sub-Threshold CMOS Operation
+- Power Analysis
+- Delay Analysis
+- Device Sizing Optimization
+- Cadence Virtuoso Implementation
+- Dynamic CMOS Evaluation
 
 ---
 
-# 🏗️ Design Flow
+# Design Flow
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/557a52be-834b-4795-beaf-6873c0af3f5c" />
 
 ---
 
-# ⚙️ Domino Logic Architecture
+# Domino Logic Architecture
 
 The implemented circuit consists of:
 
@@ -59,7 +59,7 @@ The output inverter restores a full rail-to-rail logic level while enabling casc
 
 ---
 
-# 💻 Technology Used
+# Technology Used
 
 | Category | Technology |
 |-----------|------------|
@@ -71,7 +71,7 @@ The output inverter restores a full rail-to-rail logic level while enabling casc
 | Simulation | Analog Design Environment (ADE) |
 
 ---
-# 🔬 Schematic
+# Schematic
 <img width="1327" height="617" alt="schematic" src="https://github.com/user-attachments/assets/23be3626-0af4-4279-9ddd-ac7d73e0cd89" />
 
 Major design blocks include:
@@ -86,7 +86,7 @@ Special attention was given to transistor sizing to improve switching characteri
 
 ---
 
-# 📈 Key Findings
+# Key Findings
 
 - Successfully implemented an 8-input Domino OR gate operating in the sub-threshold region.
 - Demonstrated significant reduction in power consumption compared to conventional operating regimes.
@@ -97,19 +97,19 @@ Special attention was given to transistor sizing to improve switching characteri
 ---
 
 
-# 👨‍💻 Contributors
+# Contributors
 
 - S. Deepika Sri -[https://github.com/SDeepikaSri]
 - A. Mirunalini -[[https://github.com/miruanand]
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💻 Authors
+## Authors
 **Harini S**
 ---
